@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IMCApp</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="peso">Peso</string>
+    <string name="edad">Edad</string>
+    <string name="calcular">Calcular</string>
+
+    <!--Composicion Corporal-->
+
+    <string name="comInferior">Peso inferior al normal</string>
+    <string name="comNormal">Peso  normal</string>
+    <string name="comSuperior">Peso Superior al normal</string>
+    <string name="comObesidad">Obesidad</string>
+
+
+</resources>
